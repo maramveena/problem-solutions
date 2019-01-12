@@ -1,4 +1,4 @@
-package com.edureka.assignments.module2.anagramchallenge;
+package com.problems.solutions.module2.anagramchallenge;
 
 import java.util.Arrays;
 

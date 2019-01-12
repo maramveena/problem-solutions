@@ -1,4 +1,4 @@
-package com.edureka.assignments.module3.oops.interfacedemo.implementations.stackimplementation.usinganarray;
+package com.problems.solutions.module3.oops.interfacedemo.implementations.stackimplementation.usinganarray;
 
 import java.util.Scanner;
 

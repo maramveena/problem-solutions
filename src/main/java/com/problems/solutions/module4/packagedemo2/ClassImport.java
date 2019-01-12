@@ -1,7 +1,7 @@
-package com.edureka.assignments.module4.packagedemo2;
+package com.problems.solutions.module4.packagedemo2;
 
 
-import com.edureka.assignments.module4.packagedemo1.ClassPackage;
+import com.problems.solutions.module4.packagedemo1.ClassPackage;
 
 /**
  * Created by nandigama on 1/9/2019.

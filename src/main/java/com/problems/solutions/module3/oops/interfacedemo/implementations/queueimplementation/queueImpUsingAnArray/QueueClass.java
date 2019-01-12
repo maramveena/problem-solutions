@@ -1,4 +1,4 @@
-package com.edureka.assignments.module3.oops.interfacedemo.implementations.queueimplementation.queueImpUsingAnArray;
+package com.problems.solutions.module3.oops.interfacedemo.implementations.queueimplementation.queueImpUsingAnArray;
 
 import java.util.Scanner;
 

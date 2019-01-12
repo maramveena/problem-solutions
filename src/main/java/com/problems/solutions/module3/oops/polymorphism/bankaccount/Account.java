@@ -1,4 +1,4 @@
-package com.edureka.assignments.module3.oops.polymorphism.bankaccount;
+package com.problems.solutions.module3.oops.polymorphism.bankaccount;
 
 /**
  * Created by nandigama on 1/7/2019.

@@ -1,4 +1,4 @@
-package com.edureka.assignments.module2.arrays.multidimensionalarrays;
+package com.problems.solutions.module2.arrays.multidimensionalarrays;
 
 /**
  * Created by nandigama on 1/8/2019.

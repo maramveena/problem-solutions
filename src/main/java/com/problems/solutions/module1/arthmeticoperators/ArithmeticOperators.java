@@ -1,4 +1,4 @@
-package com.edureka.assignments.module1.arthmeticoperators;
+package com.problems.solutions.module1.arthmeticoperators;
 
 /**
  * Created by nandigama on 1/7/2019.

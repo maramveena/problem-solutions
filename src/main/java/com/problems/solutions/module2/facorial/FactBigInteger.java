@@ -1,4 +1,4 @@
-package com.edureka.assignments.module2.facorial;
+package com.problems.solutions.module2.facorial;
 
 import java.math.BigInteger;
 

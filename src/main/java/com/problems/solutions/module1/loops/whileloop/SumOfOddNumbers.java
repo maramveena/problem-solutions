@@ -1,4 +1,4 @@
-package com.edureka.assignments.module1.loops.whileloop;
+package com.problems.solutions.module1.loops.whileloop;
 
 /**
  * Created by nandigama on 1/11/2019.

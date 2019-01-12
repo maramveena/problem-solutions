@@ -1,4 +1,4 @@
-package com.edureka.assignments.module2.anagramchallenge;
+package com.problems.solutions.module2.anagramchallenge;
 
 /**
  * Created by nandigama on 12/11/2018.

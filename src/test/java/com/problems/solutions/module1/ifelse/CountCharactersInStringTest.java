@@ -1,4 +1,4 @@
-package com.edureka.assignments.module1.ifelse;
+package com.problems.solutions.module1.ifelse;
 
 import org.junit.Before;
 import org.junit.Test;

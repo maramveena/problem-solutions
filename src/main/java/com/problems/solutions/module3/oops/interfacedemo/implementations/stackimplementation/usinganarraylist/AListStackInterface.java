@@ -1,4 +1,4 @@
-package com.edureka.assignments.module3.oops.interfacedemo.implementations.stackimplementation.usinganarraylist;
+package com.problems.solutions.module3.oops.interfacedemo.implementations.stackimplementation.usinganarraylist;
 
 /**
  * Created by nandigama on 1/10/2019.

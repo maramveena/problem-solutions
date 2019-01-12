@@ -1,9 +1,9 @@
-package com.edureka.assignments.module4.packagedemo2;
+package com.problems.solutions.module4.packagedemo2;
 
 
-import com.edureka.assignments.module4.packagedemo1.FactorialMethod;
-import com.edureka.assignments.module4.packagedemo1.OperatorsMethods;
-import com.edureka.assignments.module4.packagedemo1.ReverseNumberMethod;
+import com.problems.solutions.module4.packagedemo1.FactorialMethod;
+import com.problems.solutions.module4.packagedemo1.OperatorsMethods;
+import com.problems.solutions.module4.packagedemo1.ReverseNumberMethod;
 
 /**
  * Created by nandigama on 1/9/2019.

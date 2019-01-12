@@ -1,4 +1,4 @@
-package com.edureka.assignments.module1.ifelse;
+package com.problems.solutions.module1.ifelse;
 
 /**
  * Created by nandigama on 1/7/2019.

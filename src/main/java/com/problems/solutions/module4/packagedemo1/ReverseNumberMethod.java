@@ -1,4 +1,4 @@
-package com.edureka.assignments.module4.packagedemo1;
+package com.problems.solutions.module4.packagedemo1;
 
 /**
  * Created by nandigama on 1/9/2019.

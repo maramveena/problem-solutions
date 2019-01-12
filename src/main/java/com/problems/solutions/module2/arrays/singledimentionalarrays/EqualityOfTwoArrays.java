@@ -1,4 +1,4 @@
-package com.edureka.assignments.module2.arrays.singledimentionalarrays;
+package com.problems.solutions.module2.arrays.singledimentionalarrays;
 
 /**
  * Created by nandigama on 1/11/2019.

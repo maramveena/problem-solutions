@@ -1,4 +1,4 @@
-package com.edureka.assignments.module2.strings;
+package com.problems.solutions.module2.strings;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.edureka.assignments.module1.loops.whileloop;
+package com.problems.solutions.module1.loops.whileloop;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.edureka.assignments.module2.arrays.multidimensionalarrays;
+package com.problems.solutions.module2.arrays.multidimensionalarrays;
 
 import java.util.Arrays;
 

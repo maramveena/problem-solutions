@@ -1,4 +1,4 @@
-package com.edureka.assignments.module4.exceptionhandling;
+package com.problems.solutions.module4.exceptionhandling;
 
 /**
  * Created by nandigama on 1/9/2019.

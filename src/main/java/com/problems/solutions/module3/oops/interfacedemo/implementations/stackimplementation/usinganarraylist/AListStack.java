@@ -1,4 +1,4 @@
-package com.edureka.assignments.module3.oops.interfacedemo.implementations.stackimplementation.usinganarraylist;
+package com.problems.solutions.module3.oops.interfacedemo.implementations.stackimplementation.usinganarraylist;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;
